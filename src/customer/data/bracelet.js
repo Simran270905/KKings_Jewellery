@@ -1,4 +1,4 @@
-import main1 from '../../assets/images/main1.jpg';
+import main1 from '../../../public/main1.jpg';
 import main2 from '../../assets/images/main2.jpg';
 
 

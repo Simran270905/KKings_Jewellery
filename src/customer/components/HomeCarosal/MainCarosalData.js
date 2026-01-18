@@ -1,4 +1,4 @@
-import main1 from '../../../assets/images/main1.jpg';
+import main1 from '../../../../public/main1.jpg';
 import main2 from '../../../assets/images/main2.jpg';
 import main3 from '../../../assets/images/main3.jpg';
 import main4 from '../../../assets/images/main4.jpg';  // ✅ fixed

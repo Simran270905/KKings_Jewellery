@@ -10,7 +10,7 @@ import {
 } from '@heroicons/react/24/outline'
 import { Popover, Dialog } from '@headlessui/react'
 
-import main1 from '../../../assets/images/main1.jpg'
+import main1 from '../../../../public/main1.jpg'
 import main2 from '../../../assets/images/bdchains.jpg'
 import rings from '../../../assets/images/rings.jpeg'
 import pendal from '../../../assets/images/pendal.jpeg'
