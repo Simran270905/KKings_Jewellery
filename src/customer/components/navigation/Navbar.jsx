@@ -120,7 +120,7 @@ export default function Navbar() {
         <Dialog.Panel className="fixed inset-y-0 left-0 w-[85%] bg-white z-50 p-6 overflow-y-auto">
           
           <div className="flex items-center justify-between mb-6">
-            <img src={logo} alt="KKings Jewellery" className="h-10" />
+            <img src={'/logo.png'} alt="KKings Jewellery" className="h-10" />
             <button onClick={() => setMobileOpen(false)}>
               <XMarkIcon className="h-6 w-6 text-[#ae0b0b]" />
             </button>
