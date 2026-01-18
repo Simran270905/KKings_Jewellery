@@ -17,7 +17,7 @@ import pendal from '../../../assets/images/pendal.jpeg'
 import bali from '../../../assets/images/bali.jpeg'
 import kada from '../../../assets/images/kada.jpeg'
 import rudraksh from '../../../assets/images/rudraksh.jpeg'
-import logo from '../../../assets/images/logo1.png'
+
 
 const shopCategories = [
   { name: 'Bracelets', image: '/main.jpg' },
@@ -49,7 +49,7 @@ export default function Navbar() {
           </button>
 
           <img
-            src={logo}
+            src={'/logo1.png'}
             alt="KKings Jewellery"
             className="h-11 object-contain"
           />
