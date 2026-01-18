@@ -49,7 +49,7 @@ export default function Navbar() {
           </button>
 
           <img
-            src={'/logo1.png'}
+            src='/logo1.png'
             alt="KKings Jewellery"
             className="h-11 object-contain"
           />
