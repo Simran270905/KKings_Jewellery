@@ -10,7 +10,7 @@ import {
 } from '@heroicons/react/24/outline'
 import { Popover, Dialog } from '@headlessui/react'
 
-import main1 from '../../../../public/main1.jpg'
+
 import main2 from '../../../assets/images/bdchains.jpg'
 import rings from '../../../assets/images/rings.jpeg'
 import pendal from '../../../assets/images/pendal.jpeg'
@@ -20,7 +20,7 @@ import rudraksh from '../../../assets/images/rudraksh.jpeg'
 import logo from '../../../assets/images/logo1.png'
 
 const shopCategories = [
-  { name: 'Bracelets', image: main1 },
+  { name: 'Bracelets', image: '/main.jpg' },
   { name: 'Chains', image: main2 },
   { name: 'Rings', image: rings },
   { name: 'Pendal', image: pendal },
