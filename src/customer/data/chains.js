@@ -1,14 +1,6 @@
-import main4 from '../../assets/images/main4.jpg';
-import main3 from '../../assets/images/main3.jpg';
-import diamondchain1 from '../../assets/images/diamondchain1.jpg'; 
-import bdchains1 from '../../assets/images/bdchains.jpg';
-import broadchain1 from '../../assets/images/broadchain1.jpg';
-import snakechain1 from '../../assets/images/snakechain1.jpg';
-import broadchain2 from '../../assets/images/broadchain2.jpg';
-
 export const chains = [
   {
-    image: main4,
+    image: "https://res.cloudinary.com/dkbxrhe1v/image/upload/v1768828250/main4_qeoepd.jpg",
     brand: "MOTI CHAINS",
     title: "1 Gram Gold Plated Chain",
     color: "Gold Plated",
@@ -17,7 +9,7 @@ export const chains = [
     isBestSeller: true,
   },
   {
-    image: bdchains1,
+    image: "https://res.cloudinary.com/dkbxrhe1v/image/upload/v1768828246/bdchains_n0errq.jpg",
     brand: "MOTI CHAINS",
     title: "1 Gram Gold Plated Chain",
     color: "Gold Plated",
@@ -26,7 +18,7 @@ export const chains = [
     isOnSale: true,
   }, 
   {
-    image: diamondchain1,
+    image: "https://res.cloudinary.com/dkbxrhe1v/image/upload/v1768828247/diamondchain1_ogovqe.jpg",
     brand: "DIAMOND CHAINS",
     title: "1 Gram Gold Plated Chain",
     color: "Gold Plated",
@@ -36,7 +28,7 @@ export const chains = [
     isOnSale: true,
   }, 
   {
-    image: broadchain2,
+    image: "https://res.cloudinary.com/dkbxrhe1v/image/upload/v1768828247/diamondchain1_ogovqe.jpg",
     brand: "MOTI CHAINS",
     title: "1 Gram Gold Plated Chain",
     color: "Gold Plated",
@@ -44,7 +36,7 @@ export const chains = [
     price: "₹3,699",
   }, 
   {
-    image: snakechain1,
+    image: "https://res.cloudinary.com/dkbxrhe1v/image/upload/v1768828249/snakechain1_hnkbi4.jpg",
     brand: "SNAKE CHAINS",
     title: "1 Gram Gold Plated Chain",
     color: "Gold Plated",
@@ -53,7 +45,7 @@ export const chains = [
     isBestSeller: true,
   }, 
   {
-    image: broadchain1,
+    image: "https://res.cloudinary.com/dkbxrhe1v/image/upload/v1768828246/bdchains_n0errq.jpg",
     brand: "BROAD CHAINS",
     title: "1 Gram Gold Plated Chain",
     color: "Gold Plated",
@@ -62,7 +54,7 @@ export const chains = [
     isOnSale: true,
   }, 
   {
-    image: main3,
+    image: "https://res.cloudinary.com/dkbxrhe1v/image/upload/v1768828251/main3_uugqkn.jpg",
     brand: "MOTI CHAINS",
     title: "1 Gram Gold Plated Chain",
     color: "Gold Plated",
@@ -70,7 +62,7 @@ export const chains = [
     price: "₹3,699",
   }, 
   {
-    image: main3,
+    image: "https://res.cloudinary.com/dkbxrhe1v/image/upload/v1768828251/main3_uugqkn.jpg",
     brand: "MOTI CHAINS",
     title: "1 Gram Gold Plated Chain",
     color: "Gold Plated",
@@ -78,7 +70,7 @@ export const chains = [
     price: "₹3,699",
   }, 
   {
-    image: main3,
+    image: "https://res.cloudinary.com/dkbxrhe1v/image/upload/v1768828251/main3_uugqkn.jpg",
     brand: "MOTI CHAINS",
     title: "1 Gram Gold Plated Chain",
     color: "Gold Plated",
